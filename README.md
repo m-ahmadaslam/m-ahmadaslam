@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-aslam-84635b266/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.ahmadaslam2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marketcraft-git-master-muhammad-ahmad-aslams-projects.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=m-ahmadaslam&style=for-the-badge&color=0A66C2)
 
 </div>
